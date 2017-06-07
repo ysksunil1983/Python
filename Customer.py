@@ -23,7 +23,7 @@ class Customer:
         return self.cname + " "+self.cadd+ " "+ str(self.cacno)+" "+str(self.cbal)
         print (Customer.customerBankName)
 c1 = Customer('sunil','tarnaka', 100001, 100000.00)
-c2 = Customer('Mani','L B Nagar', 100003, 300000.00)
+c2 = Customer('Manikanta','L B Nagar', 100003, 300000.00)
 c3 = Customer('Santhosh','Nagole', 100002, 200000.00)
 
 X = [c1,c2,c3]

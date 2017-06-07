@@ -1,0 +1,12 @@
+1494251502077	geckodriver	INFO	Listening on 127.0.0.1:49782
+1494251504106	mozprofile::profile	INFO	Using profile path C:\Users\sunil_yellanki\AppData\Local\Temp\rust_mozprofile.7s5DvwZyUDDA
+1494251504108	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1494251504155	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49788
+1494512127911	geckodriver	INFO	Listening on 127.0.0.1:57586
+1494512129962	mozprofile::profile	INFO	Using profile path C:\Users\sunil_yellanki\AppData\Local\Temp\rust_mozprofile.aS92W5tEFN32
+1494512129965	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1494512130005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57593
+1494512264322	geckodriver	INFO	Listening on 127.0.0.1:57654
+1494512266390	mozprofile::profile	INFO	Using profile path C:\Users\sunil_yellanki\AppData\Local\Temp\rust_mozprofile.7ipZDdx4H9Iy
+1494512266394	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1494512266408	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57660
